@@ -9,6 +9,13 @@ This is a simple movie application built with React and Vite, utilizing Appwrite
 *   Displays movie posters, titles, and release dates
 *   Uses Appwrite for tracking search counts
 
+## Features
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/159a9c34-b50d-4d17-a488-4bfee6630473" />
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/39f43a5e-d40d-4361-b0bb-68636527f69b" />
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/ee2f906c-848a-4c06-bbde-25658c6f1a40" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/17f7ec60-5b0e-407e-940c-bd01a8cdea21" />
+
+
 ## Technologies Used
 
 *   **Frontend:** React, Vite
